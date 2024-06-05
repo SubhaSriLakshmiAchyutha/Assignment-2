@@ -7,6 +7,8 @@ Description:Machine Learning Assignment 2 is about implementing the following co
 
 
 Video Link: https://drive.google.com/file/d/1y0BQ19PA11spMMyB2lD5qyqnCfEvB7du/view?usp=drive_link 
+
+
 Document Link: https://docs.google.com/document/d/1Gy2jPWXBgVeXyMR0HkKKuBUSWYcQR8XP/edit?usp=sharing&ouid=100704734905476009935&rtpof=true&sd=true 
 
 
